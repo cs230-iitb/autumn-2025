@@ -34,7 +34,9 @@ Head TA:
 ---------
 
 <h2>Course Outline</h2>
-The goal of this course is to make students understand, analyze, and appreciate the basic principles, design choices, and trade-offs associated with the field of digital systems and computer architecture. The course will delve into the topics: digital logic gates, combinational and sequential circuits, system stack and abstractions, instruction set architectures. microarchitecture, intro. to assembly language, modern processors and their front-end and back-end, and memory systems.
+The goal of this course is to make students understand, analyze, and appreciate the basic principles, design choices, and trade-offs associated with the field of digital systems and computer architecture. The course will delve into the topics: digital logic gates, combinational and sequential circuits, instruction set architectures, microarchitecture, assembly language, instruction pipelining, pipeline hazards, cache hierarchy, and DRAMs.
+
+Now, why should you take this course? Well, this course is your first step to the world of modern computers (starting from the smart card in your pocket till the data centre of Google) -- how they work, how to use them efficiently, how to make them better, and how to hack them. 
 
 `Textbooks:`
 * Switching and Finite Automata Theory,  Zvi Kohavi, Niraj K. Jha, Cambridge University Press, 2009
