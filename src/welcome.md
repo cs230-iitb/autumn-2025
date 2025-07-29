@@ -59,7 +59,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Date    | Lecture Topic | Pre-req |  Lecture Slides  |  Reading Material  |
 | :-------------: | :--------------------------------------------: | :-------------: | :-------------: | :-------------: |
 |   July 28  |  [L0] Course Prelude, Introduction | - | [pdf](./downloadables//Lec_0_Introduction.pdf) |  -  |
-|   July 29  |  [L1] Number Systems | - | [pdf](./downloadables//Lec_1_Number_Systems.pdf) |  -  |
+|   July 29  |  [L1] Number Systems | - | [pdf](./downloadables//Lec_1_Number_Systems.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
 |   Jan 15  |  Introduction to Block Ciphers |  Bayes theorem, Basic probability, Boolean algebra  |  [pdf](./downloadables/lec_slides/ISC_lec3.pdf)  |  -  |
