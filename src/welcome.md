@@ -62,6 +62,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   July 29  |  [L1] Number Systems | - | [pdf](./downloadables/Lec_1_Number_Systems.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
 |   July 31  |  [L2] Switching Algebra | - | [pdf](./downloadables/Lec_2_Switching_Algebra.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
 |   Aug 4    |  [L3] Logic Minimization | - | [pdf](./downloadables/Lec_3_4_Logic_Minimization.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
+|   Aug 5    |  [L4] Combinational Circuits 1 | - | [pdf](./downloadables/Lec_4_5_Combinational_Circuits.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
 |   Jan 15  |  Introduction to Block Ciphers |  Bayes theorem, Basic probability, Boolean algebra  |  [pdf](./downloadables/lec_slides/ISC_lec3.pdf)  |  -  |
