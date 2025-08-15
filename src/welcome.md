@@ -66,6 +66,8 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Aug 7    |  [L5] Combinational Circuits 2 | - | [pdf](./downloadables/Lec_4_5_Combinational_Circuits.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi  |
 |   Aug 11   |  [L6] Sequential Circuits 1 | - | [pdf](./downloadables/Lec_6_Sequential_Circuits_1.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
 |   Aug 12   |  [L7] Sequential Circuits 2 | - | [pdf](./downloadables/Lec_7_Sequential_Circuits_2.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
+|   Aug 14   |  [L8] Sequential Circuits 3 | - | [pdf](./downloadables/Lec_8_Sequential_Circuits_3.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
+
 
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
