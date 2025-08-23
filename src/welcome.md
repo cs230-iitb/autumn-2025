@@ -68,7 +68,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Aug 12   |  [L7] Sequential Circuits 2 | - | [pdf](./downloadables/Lec_7_Sequential_Circuits_2.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
 |   Aug 14   |  [L8] Sequential Circuits 3 | - | [pdf](./downloadables/Lec_8_Sequential_Circuits_3.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
 |   Aug 18   |  [L9] Sequential Circuits 4 | - | [pdf](./downloadables/Lec_9_Sequential_Circuits_4.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
-|   Aug 19   |  [L10] Tutorial - I  | - | [pdf](./downloadables/CS230__Tutorial-I.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
+|   Aug 19   |  [L10] Tutorial - I  | - | [pdf](./downloadables/CS230__Tutorial-I.pdf) | [Tut-I solutions](./downloadables/CS230_Tutorial-I_with_solutions.pdf)  |
 
 
 <!--
