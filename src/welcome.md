@@ -69,7 +69,8 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Aug 14   |  [L8] Sequential Circuits 3 | - | [pdf](./downloadables/Lec_8_Sequential_Circuits_3.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
 |   Aug 18   |  [L9] Sequential Circuits 4 | - | [pdf](./downloadables/Lec_9_Sequential_Circuits_4.pdf) |  Switching and Finite Automata Theory, Zvi Kohavi |
 |   Aug 19   |  [L10] Tutorial - I  | - | [pdf](./downloadables/CS230__Tutorial-I.pdf) | [Tut-I solutions](./downloadables/CS230_Tutorial-I_with_solutions.pdf)  |
-|   Aug 21   |  [L11] Instruction Set Architecture 1 | - | [pdf](./downloadables/Lec_11_ISA_1.pdf) |  COMPUTER ORGANIZATION AND DESIGN - THE HARDWARE/SOFTWARE INTERFACE, DAVID A. PATTERSON, JOHN L. HENNESSY |
+|   Aug 21   |  [L11] Instruction Set Architecture 1 | - | [pdf](./downloadables/Lec_11_ISA_1.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Aug 25   |  [L12] Instruction Set Architecture 2 | - | [pdf](./downloadables/Lec_12_ISA_2.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
 |   Jan 15  |  Introduction to Block Ciphers |  Bayes theorem, Basic probability, Boolean algebra  |  [pdf](./downloadables/lec_slides/ISC_lec3.pdf)  |  -  |
