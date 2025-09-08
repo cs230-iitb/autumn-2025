@@ -74,7 +74,9 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Aug 26   |  [L13] Instruction Set Architecture 3 | - | [pdf](./downloadables/Lec_13_ISA_3.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Aug 28   |  [L14] Instruction Set Architecture 4 | - | [pdf](./downloadables/Lec_14_ISA_4.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Sep 1   |  [L15] Instruction Set Architecture 5 | - | [pdf](./downloadables/Lec_15_ISA_5_6.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
-|   Sep 2   |  [L16] Instruction Set Architecture 6 | - | [pdf](./downloadables/Lec_16_ISA_All.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Sep 2   |  [L16] Instruction Set Architecture 6 (last) | - | [pdf](./downloadables/Lec_16_ISA_All.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Sep 4   | Quiz - I  | - | [pdf](./downloadables/CS230_2025_Quiz_1_sol.pdf) |  - |
+
 
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
