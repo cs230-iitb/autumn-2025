@@ -1,4 +1,4 @@
-<center>
+[Lec_Processor_Datapath.pdf](https://github.com/user-attachments/files/22457774/Lec_Processor_Datapath.pdf)<center>
     <h1>Digital Logic Design and Computer Architecture</h1>
     <h2>Instructor: <a href="https://sites.google.com/view/sayandeepsaha/home" target=_blank>Prof. Sayandeep Saha</a></h2>
 </center>
@@ -79,6 +79,8 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Sep 4   | Quiz - I  | - | [pdf](./downloadables/CS230_2025_Quiz_1_sol.pdf) |  - |
 |   Sep 8   |  [L17] Processor Datapath 1 | - | [pdf](./downloadables/Lec_17_Processor_Datapath_1.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Sep 9   |  [L18] Tutorial - III  | - | [pdf](./downloadables/CS230_Tutorial_III.pdf) | [Tut-III solutions](./downloadables/CS230_Tutorial_III_with_solutions.pdf)  |
+|   Sep 22   |  [L19][L20] Processor Datapath 2,3 | - | [pdf](./downloadables/Lec_20_Processor_Datapath_2.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+
 
 <!--
 |   Jan 10  |  Intro to Theoretical Cryptography |  -  | [pdf](./downloadables/lec_slides/ISC_lec2.pdf)  |  Intro to Modern Cryptography, Chapters 2 to 3.4 <br>[pdf](./downloadables/ref_books/intro_to_modern_crypto-chap_2-3.4.pdf)  |
