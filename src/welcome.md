@@ -81,6 +81,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Sep 9   |  [L18] Tutorial - III  | - | [pdf](./downloadables/CS230_Tutorial_III.pdf) | [Tut-III solutions](./downloadables/CS230_Tutorial_III_with_solutions.pdf)  |
 |   Sep 22   |  [L19][L20] Processor Datapath 2,3 | - | [pdf](./downloadables/Lec_20_Processor_Datapath_2.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Sep 29   |  [L21][L22][L23] Processor Datapath 4,5,6 | - | [pdf](./downloadables/Lec_23_Processor_Datapath_3.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Sep 30   |  [L24] Processor Datapath 7 | - | [pdf](./downloadables/Lec_24_Processor_Datapath_4.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 
 
 <!--
