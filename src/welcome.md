@@ -1,4 +1,4 @@
-[Lec_Processor_Datapath.pdf](https://github.com/user-attachments/files/22457774/Lec_Processor_Datapath.pdf)<center>
+<center>
     <h1>Digital Logic Design and Computer Architecture</h1>
     <h2>Instructor: <a href="https://sites.google.com/view/sayandeepsaha/home" target=_blank>Prof. Sayandeep Saha</a></h2>
 </center>
