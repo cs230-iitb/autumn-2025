@@ -85,6 +85,8 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Oct 06   |   Tutorial - IV | - | [pdf](./downloadables/CS230_tut-4-sol.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Oct 07   |  [L25] Processor Datapath 8 | - | [pdf](./downloadables/Lec_25_Processor_Datapath_5.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Oct 09   |  [L26] Caches 1 | - | [pdf](./downloadables/Lec_26_cache_1.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Oct 13   |  [L27] Caches 2 | - | [pdf](./downloadables/Lec_27_cache_2.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Oct 14   |  [L28] Caches 3 | - | [pdf](./downloadables/Lec_28_cache_3.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 
 
 <!--
