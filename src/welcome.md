@@ -18,7 +18,7 @@
 * Lecture Days: Monday(09:30-10:25), Tuesday (10:35-11:30), and Thursday (11:35-12:30)
 * Piazza class: [Link](https://piazza.com/iit_bombay/summer2025/cs230) (Access Code : cs230)
 * Instructor office hours: After class or get \ an appointment via email
-* **Lecture slides are partly inspired and adapted from the excellent slides by Prof. Debdeep Mukhopadhyay, Prof. Biswabandan Panda, Prof. Rajib Mall, Prof. Onur Mutlu, Prof. Joel Emer, Prof. Krste Asanovic, and many other stalwarts of computer architecture.** 
+* **Lecture slides are largely inspired and adapted from the excellent slides by Prof. Debdeep Mukhopadhyay, Prof. Biswabandan Panda, Prof. Rajib Mall, Prof. Onur Mutlu, Prof. Joel Emer, Prof. Krste Asanovic, and many other stalwarts of computer architecture.** 
 
 </td>
 <td>
