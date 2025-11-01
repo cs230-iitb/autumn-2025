@@ -17,7 +17,7 @@
 * Lecture Venue: LH 101
 * Lecture Days: Monday(09:30-10:25), Tuesday (10:35-11:30), and Thursday (11:35-12:30)
 * Piazza class: [Link](https://piazza.com/iit_bombay/summer2025/cs230) (Access Code : cs230)
-* Instructor office hours: After class or get \ an appointment via email
+* Instructor office hours: After class or get an appointment via email
 * **The lecture slides used in this course are inspired and partially adapted from the excellent teaching materials of Prof. Debdeep Mukhopadhyay, Prof. Biswabandan Panda, Prof. Rajib Mall, Prof. Onur Mutlu, Prof. Joel Emer, Prof. Krste Asanović, and several other distinguished researchers in computer architecture.
 All original copyrights remain with the respective authors and their institutions. These materials are used here solely for non-commercial educational purposes to support student learning in CS230, 2025. Portions of the slides are adapted from publicly available course materials hosted by various universities, used here under the educational fair dealing provisions of the Indian Copyright Act, 1957.** 
 
