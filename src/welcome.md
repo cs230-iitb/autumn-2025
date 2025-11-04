@@ -92,6 +92,7 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Oct 23   |  [L31] Caches 6 | - | [pdf](./downloadables/Lec_31_cache_6.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Oct 27   |  Tutorial - V | - | [pdf](./downloadables/CS230_tut-5-sol.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Oct 30   |  [L32] DRAM 1 | - | [pdf](./downloadables/Lec_DRAM.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Nov 4    |  [L33] Virtual Memory | - | [pdf](./downloadables/Lec_Virtual_Memory.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 
 
 <!--
