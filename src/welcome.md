@@ -95,6 +95,8 @@ Now, why should you take this course? Well, this course is your first step to th
 |   Oct 28   |  Quiz - 2 | - | [pdf](./downloadables/CS230_2025_Quiz_2.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Oct 30   |  [L32] DRAM 1 | - | [pdf](./downloadables/Lec_DRAM.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
 |   Nov 4    |  [L33] Virtual Memory | - | [pdf](./downloadables/Lec_Virtual_Memory.pdf) |  Computer Organization and Design - The Hardware/Software Interface, David A. Patterson, John L. Hennessy |
+|   Nov 12    |  End-Semester | - | [pdf](./downloadables/CS230_2025_End_Sem-3.pdf) |  - |
+
 
 
 <!--
